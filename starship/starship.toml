@@ -26,8 +26,9 @@ $character"""
 disabled = false
 style = "bg:mauve fg:crust"
 [os.symbols]
-Ubuntu = "󰕈"
+Ubuntu = "🐱"
 Linux = "󰌽"
+Macos = "🐱"
 
 [username]
 show_always = true
