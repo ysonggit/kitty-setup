@@ -25,7 +25,7 @@ Because the configs are symlinks, edit them in place and `git commit` — other 
 
 | | |
 |---|---|
-| Theme | Catppuccin Mocha, 94% opacity, 12px padding, no window decorations |
+| Theme | Catppuccin Mocha, 94% opacity, 12px padding, normal title bar |
 | Cursor | beam with cursor trail |
 | Tabs | top, powerline slanted |
 | `ctrl+shift+enter` | new split in current dir |
