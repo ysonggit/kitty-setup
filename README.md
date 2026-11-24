@@ -2,6 +2,8 @@
 
 My terminal look: **kitty** + **Catppuccin Mocha** + **JetBrainsMono Nerd Font** + a powerline **starship** prompt.
 
+![kitty with Catppuccin Mocha and a starship prompt, two splits side by side](assets/screenshot.png)
+
 ## Install on a new machine
 
 ```bash
